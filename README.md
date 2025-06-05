@@ -34,3 +34,16 @@ OLA faced challenges in understanding ride trends, cancellation reasons, custome
 
 Understanding the average ride distance for each vehicle type helps optimize vehicle allocation and pricing strategies. For instance, longer average distances for certain types (like Prime) could justify premium pricing or targeted promotions.
 
+**2) Get the total number of cancelled rides by customers**
+
+![image](https://github.com/user-attachments/assets/003802d2-a134-4abd-ae30-bbd41238b110)
+
+![image](https://github.com/user-attachments/assets/5abe6ffc-1f6b-4ea9-b9ba-732c7a8f5dd0)
+
+A high number of customer cancellations can indicate dissatisfaction, delays, or app usability issues. Tracking this metric helps the company reduce cancellations through improved UX, communication, or incentives.
+
+**3) List the top 5 customers who booked the highest number of rides**
+
+
+
+
