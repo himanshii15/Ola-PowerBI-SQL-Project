@@ -27,4 +27,10 @@ OLA faced challenges in understanding ride trends, cancellation reasons, custome
 # Execution
 
 **1) Find the average ride distance for each vehicle type**
+
  ![image](https://github.com/user-attachments/assets/356a283b-d912-4ca6-b746-e251b2c386d7)
+
+ ![image](https://github.com/user-attachments/assets/685f497a-95d1-4817-832d-0bddeca9985c)
+
+Understanding the average ride distance for each vehicle type helps optimize vehicle allocation and pricing strategies. For instance, longer average distances for certain types (like Prime) could justify premium pricing or targeted promotions.
+
