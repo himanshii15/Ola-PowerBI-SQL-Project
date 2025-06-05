@@ -10,9 +10,7 @@
 [Power BI Dashboard- click to interact](https://github.com/himanshii15/Ola-PowerBI-SQL-Project/blob/16ddd0c739801ea428faddf60d9647d023e4ac58/olaproject.pbix)
 
 
-**Business Problem**
-
-OLA faced challenges in understanding ride trends, cancellation reasons, customer satisfaction, and revenue fluctuations. Lack of centralized, visual insights made it difficult for decision-makers to identify key performance drivers and areas for improvement.
+**Business Problem**:-OLA faced challenges in understanding ride trends, cancellation reasons, customer satisfaction, and revenue fluctuations. Lack of centralized, visual insights made it difficult for decision-makers to identify key performance drivers and areas for improvement.
 
 
 **Solution Plan**
