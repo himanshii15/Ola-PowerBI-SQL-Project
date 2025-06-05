@@ -90,6 +90,16 @@ This helps measure total revenue generated from completed rides, a critical KPI 
 
 Knowing why rides were incomplete helps pinpoint service failures—whether technical, logistical, or customer-related—enabling focused corrective actions to minimize disruptions.
 
+**9) Generated various Charts and Visuals on Power BI to identify trends/patterns and gain more insights into the data.**
+
+![olaproject_page-0001](https://github.com/user-attachments/assets/06fa86d3-342f-426b-9179-80832c2a4603)
+![olaproject_page-0002](https://github.com/user-attachments/assets/ef68cf32-49ee-4e07-828a-bb408fdc40e3)
+![olaproject_page-0003](https://github.com/user-attachments/assets/177e74c0-19ba-4a90-85a8-f71488ceaaef)
+![olaproject_page-0004](https://github.com/user-attachments/assets/ad6e7d4c-504e-410f-ab8b-641d3f614a2f)
+
+
+
+
 
 
 
