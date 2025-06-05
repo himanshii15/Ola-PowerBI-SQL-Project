@@ -27,5 +27,4 @@ OLA faced challenges in understanding ride trends, cancellation reasons, custome
 # Execution
 
 **1) Find the average ride distance for each vehicle type**
- ![Image Alt](![image](https://github.com/user-attachments/assets/356a283b-d912-4ca6-b746-e251b2c386d7)
-)
+ ![image](https://github.com/user-attachments/assets/356a283b-d912-4ca6-b746-e251b2c386d7)
