@@ -17,7 +17,10 @@
 - To help OLA gain valuable insights from their April 2024 ride booking data, I will utilize SQL and data visualization with Power BI to extract meaningful information and perform in-depth analysis. The process will include data cleaning, transformation, and exploration.
 
 - By leveraging SQL’s capabilities, I aim to uncover key performance metrics such as total successful rides, cancellation breakdowns, average ratings, ride distribution by vehicle type, and revenue trends. These insights will help identify service gaps and customer behavior patterns.
-
+  
 - Once the data is prepared, I will use Power BI to present the findings through interactive and visually engaging dashboards. These visuals will empower OLA’s stakeholders to understand booking trends, cancellation reasons, top-performing customers, and vehicle performance at a glance.
 
 - I plan to design a dynamic Power BI dashboard that allows users to explore KPIs like booking status, customer/driver ratings, revenue contribution, and incomplete ride reasons. The goal is to deliver actionable insights that support data-driven decision-making and help optimize OLA’s operational efficiency and customer experience.
+
+
+# Execution
