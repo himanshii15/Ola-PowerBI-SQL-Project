@@ -36,7 +36,7 @@ Understanding the average ride distance for each vehicle type helps optimize veh
 
 **2) Get the total number of cancelled rides by customers**
 
-![image](https://github.com/user-attachments/assets/003802d2-a134-4abd-ae30-bbd41238b110)
+![image](https://github.com/user-attachments/assets/35d05811-ac27-4a69-b6e4-41b87e3008bf)
 
 ![image](https://github.com/user-attachments/assets/5abe6ffc-1f6b-4ea9-b9ba-732c7a8f5dd0)
 
