@@ -10,10 +10,11 @@
 [Power BI Dashboard- click to interact](https://github.com/himanshii15/Ola-PowerBI-SQL-Project/blob/16ddd0c739801ea428faddf60d9647d023e4ac58/olaproject.pbix)
 
 
-**Business Problem**:-OLA faced challenges in understanding ride trends, cancellation reasons, customer satisfaction, and revenue fluctuations. Lack of centralized, visual insights made it difficult for decision-makers to identify key performance drivers and areas for improvement.
+# Business Problem
+OLA faced challenges in understanding ride trends, cancellation reasons, customer satisfaction, and revenue fluctuations. Lack of centralized, visual insights made it difficult for decision-makers to identify key performance drivers and areas for improvement.
 
 
-**Solution Plan**
+# Solution Plan
 - To help OLA gain valuable insights from their April 2024 ride booking data, I will utilize SQL and data visualization with Power BI to extract meaningful information and perform in-depth analysis. The process will include data cleaning, transformation, and exploration.
 
 - By leveraging SQL’s capabilities, I aim to uncover key performance metrics such as total successful rides, cancellation breakdowns, average ratings, ride distribution by vehicle type, and revenue trends. These insights will help identify service gaps and customer behavior patterns.
@@ -24,3 +25,7 @@
 
 
 # Execution
+
+**1) Find the average ride distance for each vehicle type**
+ ![Image Alt](![image](https://github.com/user-attachments/assets/356a283b-d912-4ca6-b746-e251b2c386d7)
+)
